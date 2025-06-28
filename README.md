@@ -1,3 +1,5 @@
+**이 리포지토리는 [https://github.com/microsoft/github-copilot-vibe-coding-workshop](https://github.com/microsoft/github-copilot-vibe-coding-workshop)으로 이동했습니다.**
+
 # GitHub Copilot Bootcamp 2025
 
 [GitHub Copilot](https://docs.github.com/ko/copilot/about-github-copilot/what-is-github-copilot)의 최신 기능을 이용해서 다양한 언어로 다양한 애플리케이션을 개발해 봅시다. 진정한 vibe coding에 올라타 보세요!

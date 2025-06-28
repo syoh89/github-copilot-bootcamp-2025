@@ -14,14 +14,14 @@
 ### 설치 및 실행
 ```bash
 # 의존성 설치
-npm install
+yarn install
 
 # 개발 서버 실행
-npm dev
+yarn dev
 
 # 프로덕션 빌드
-npm build
+yarn build
 
 # 빌드 미리보기
-npm preview
+yarn preview
 ```
